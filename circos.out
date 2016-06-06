@@ -1,0 +1,17 @@
+debuggroup summary 0.17s welcome to circos v0.69 6 Dec 2015 on Perl 5.022002
+debuggroup summary 0.17s current working directory /Users/yosuke/research/201606circos
+debuggroup summary 0.17s command /Users/yosuke/software/circos/current/bin/circos -conf circos.conf
+debuggroup summary 0.17s loading configuration from file circos.conf
+debuggroup summary 0.17s found conf file circos.conf
+debuggroup summary 0.34s debug will appear for these features: output,summary
+debuggroup summary 0.34s bitmap output image ./circos.png
+debuggroup summary 0.34s SVG output image ./circos.svg
+debuggroup summary 0.34s parsing karyotype and organizing ideograms
+debuggroup summary 0.45s karyotype has 24 chromosomes of total size 3,095,677,436
+debuggroup summary 0.45s applying global and local scaling
+debuggroup summary 0.46s allocating image, colors and brushes
+debuggroup summary 0.91s drawing 24 ideograms of total size 3,095,677,436
+debuggroup summary 0.91s drawing highlights and ideograms
+debuggroup output 0.95s generating output
+debuggroup output 1.41s created PNG image ./circos.png (84 kb)
+debuggroup output 1.41s created SVG image ./circos.svg (6 kb)
